@@ -1,4 +1,4 @@
-# tabby-or-not
+# TABBY-OR-NOT
 
 # TabbyCat Classifier & Location Predictor
 
